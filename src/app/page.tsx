@@ -34,9 +34,49 @@ function SideBar() {
   );
 }
 
+function About() {
+  return (
+    <>
+    </>
+  );
+}
+
+function Apply() {
+  return (
+    <>
+    </>
+  );
+}
+
+function MeetUs() {
+  return (
+    <>
+    </>
+  );
+}
+
+function Donate() {
+  return (
+    <>
+    </>
+  );
+}
+
+function Contact() {
+  return (
+    <>
+    </>
+  );
+}
+
 function MainContent() {
   return (
     <>
+      <About />
+      <Apply />
+      <MeetUs />
+      <Donate />
+      <Contact />
     </>
   );
 }
