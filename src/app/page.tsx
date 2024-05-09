@@ -25,12 +25,12 @@ function SideBar() {
 
   return (
     <>
-      {/* <div className="side-bar">
+      <div className="side-bar">
         <nav className="navigation">
-            <Image src="images/logo.svg" alt="Logo" />
+            {/* <Image src="images/logo.svg" alt="Logo" /> */}
           <ul>{listLinks}</ul>
         </nav>
-    </div> */}
+    </div>
     </>
   );
 }
