@@ -46,6 +46,30 @@
   width: var(--max-width);
 }
 
+.wrapper-winners {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 5rem;
+  margin-top: 2rem;
+}
+
+.wrapper-team {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 5rem;
+  margin-top: 2rem;
+}
+
+.cell {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  max-width: 500px;
+  text-align: center;
+
+}
+
 .card {
   padding: 1rem 1.2rem;
   border-radius: var(--border-radius);
