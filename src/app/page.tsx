@@ -104,7 +104,30 @@ function MeetUs() {
         alt="Group Picture"
       />
       <h1>Past Winners</h1>
-      <div className="grid">
+      <div className="block">
+        <Image
+            className="person"
+            src="/images/peyton_gamez.png"
+            width={50}
+            height={50}
+            alt="Peyton Gamez"
+        />
+        <Image
+            className="person"
+            src="/images/peyton_gamez.png"
+            width={50}
+            height={50}
+            alt="Peyton Gamez"
+        />
+        <Image
+            className="person"
+            src="/images/peyton_gamez.png"
+            width={50}
+            height={50}
+            alt="Peyton Gamez"
+          />
+      </div>
+      <div className="block">
         <div>
           <Image
             className="person"

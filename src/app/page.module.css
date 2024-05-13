@@ -39,6 +39,10 @@
   font-family: var(--font-mono);
 }
 
+.block {
+  display: block;
+}
+
 .grid {
   display: grid;
   grid-template-columns: repeat(4, minmax(25%, auto));
