@@ -40,7 +40,7 @@
 }
 
 .block {
-  display: block;
+  display: inline-block;
 }
 
 .grid {
